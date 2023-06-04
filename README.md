@@ -5,7 +5,7 @@ run testemotiondetector.py to test the model.
 
 Requirements
 
-4.6.1 Software Requirements
+Software Requirements
 Language Used: Python 3.9.7
 Libraries Required: 
 •	NumPy
